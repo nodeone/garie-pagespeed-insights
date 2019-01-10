@@ -1,4 +1,4 @@
-FROM node:8.10.0
+FROM node:8.10.0-alpine
 
 RUN mkdir -p /usr/src/garie-pagespeed-insights
 
